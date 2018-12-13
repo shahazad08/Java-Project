@@ -1,0 +1,14 @@
+package com.shahazadproject.functional;
+
+public class Harmonic {
+
+	public static void main(String[] args) {
+		int num[]= {13,14,15,16,17};
+		int freq[]= {2,5,13,7,3};
+		int n=num.length;
+		System.out.println(harmonicMean(num,freq,n));
+		// TODO Auto-generated method stub
+
+	}
+
+}

@@ -1,0 +1,34 @@
+package com.shahazadproject.utilities;
+import java.util.*;
+public class Utility {
+	int c;
+	
+	public int add(int a, int b) {
+		c=a+b;
+		return c;
+		// TODO Auto-generated method stub
+		
+	}
+	public int sub(int a,int b)
+	{
+		c=a-b;
+		return c;
+	}
+	public String name(String uname)
+	{
+		String a = uname;
+		return a;
+		//System.out.println("Name is" +a);
+		
+			
+	}
+	
+	
+	}
+	
+	
+	
+		
+
+	
+
